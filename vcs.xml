@@ -1,0 +1,29 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="git@git.hakunamatata.in:Dinamalar-SLBPVT/slbpvt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://git.hakunamatata.in" />
+          <option name="userName" value="prashanth@hakunamatata.in" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.hakunamatata.in/Dinamalar-SLBPVT/slbpvt.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.hakunamatata.in/vaya/android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@git.hakunamatata.in:vaya/android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="/Volumes/Data/vaya/android" />
+  </component>
+</application>
